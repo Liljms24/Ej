@@ -1,0 +1,14 @@
+ int x = Integer.parseInt(jTextField1.getText());
+        int y = Integer.parseInt(jTextField2.getText());
+        int z = Integer.parseInt(jTextField3.getText());
+        int a = Integer.parseInt(jTextField4.getText());
+        int b = x + y + z + a;
+        int xx = 4;
+        double yy = b / xx;
+        
+        
+        jTextField5.setText("" + String.valueOf(yy));
+        
+        
+        JOptionPane.showMessageDialog(this, "Computed Successfully");
+    }                                        
