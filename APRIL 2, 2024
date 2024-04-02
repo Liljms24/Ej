@@ -1,0 +1,21 @@
+<html>
+    <head><title>COMPROG</title></head>
+    <body bgcolor = "#00FFFF">
+     
+        <h1>COMPROG</h1>
+        <h2>Name: Erick James A. Dayrit</h2>
+          <h2>Age: 19</h2>
+          <h2>Course: I.T</h2>
+        
+        
+        <p>My Hobbies Are playing games, eating,sleeping</p>
+    <marquee> WoOpss WOopss</marquee>
+    
+    <font face ="Chiller" color ="yellow" size =" 5px"><i>C</i></font>
+    <font face ="Times roman" color ="red" size =" 15px"><b>C</b></font>
+    <font face ="Chiller" color ="green" size =" 15px"><i>S</i></font>
+    <font face ="Bernard MT Condensed" color ="blue" size =" 15px"><u>T</u></font>
+    
+    
+</body>
+</html>
